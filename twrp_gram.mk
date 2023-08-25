@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/gram/device.mk)
 
 PRODUCT_DEVICE := gram
-PRODUCT_NAME := omni_gram
+PRODUCT_NAME := twrp_gram
 PRODUCT_BRAND := POCO
 PRODUCT_MODEL := POCO M2 Pro
 PRODUCT_MANUFACTURER := xiaomi
