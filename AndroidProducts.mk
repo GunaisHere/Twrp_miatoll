@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_gram.mk
+    $(LOCAL_DIR)/omni_gram.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_gram-user \
-    twrp_gram-userdebug \
-    twrp_gram-eng
+    omni_gram-user \
+    omni_gram-userdebug \
+    omni_gram-eng
